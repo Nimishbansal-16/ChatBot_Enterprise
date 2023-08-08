@@ -11,8 +11,8 @@ This project focus on enterprise chatbot, which will enable user to create chatb
 ## Project Setup
 ```commandline
 cd ~/path/to/project
-git clone https://git.ixigo.com/cxp/tara_enterprise.git
-cd tara_enterprise
+git clone https://github.com/Nimishbansal-16/ChatBot_Enterprise.git
+cd chatbot_enterprise
 ```
 
 ## Installation
@@ -21,9 +21,8 @@ https://www.python.org/downloads/release/python-3114/
 
 ## Create virtual environment
 ```commandline
-python3.11 -m venv ../venv_te
+python3.11 -m venv ../venv_chatbot
 ```
--  venv_te refers to  <b>Virtual Environment Tara Enterprise</b>
 
 ## Package Support
 ```
